@@ -1,0 +1,30 @@
+# Ignore Python virtual environments
+q1k_et_neurosubs_env/
+venv/
+.env/
+*.env/
+newenvname/
+
+# Ignore all text files
+*.txt
+
+# Ignore all CSV files
+*.csv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore outputs
+outputs/
