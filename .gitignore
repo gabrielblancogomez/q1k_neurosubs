@@ -11,6 +11,9 @@ newenvname/
 # Ignore all CSV files
 *.csv
 
+# Ignore all TSV files
+*.tsv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
