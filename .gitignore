@@ -20,6 +20,12 @@ newenvname/
 # Ignore all INI files
 *.ini
 
+# Ignore all asc files
+*.asc
+
+# Ignore all png files
+*.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
