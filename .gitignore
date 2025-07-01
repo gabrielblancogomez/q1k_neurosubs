@@ -26,6 +26,9 @@ newenvname/
 # Ignore all png files
 *.png
 
+# Ignore all jupyter notebooks that contain the word papermill 
+*papermill_executed.ipynb 
+
 # Ignore all edf files
 *.edf
 # Byte-compiled / optimized / DLL files
